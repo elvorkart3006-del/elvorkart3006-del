@@ -7,7 +7,7 @@ I'm an Aeronautical Engineering graduate with experience in aerospace manufactur
 I'm currently expanding my skills in Python, financial data analysis, and systematic trading research.
 
 ### 🚀 Areas of Interest
-- Aerospace Engineering & UAV Systems
+- Aerospace Engineering
 - Python Programming & Data Analysis
 - Algorithmic Trading & Quantitative Research
 - Automation & Engineering Innovation
