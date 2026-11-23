@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Karthik! 👋
 
-<!--
-**elvorkart3006-del/elvorkart3006-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aeronautical Engineer | Python & Quantitative Finance Enthusiast
 
-Here are some ideas to get you started:
+I'm an Aeronautical Engineering graduate with experience in aerospace manufacturing, UAV development, and engineering projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently expanding my skills in Python, financial data analysis, and systematic trading research.
+
+### 🚀 Areas of Interest
+- Aerospace Engineering & UAV Systems
+- Python Programming & Data Analysis
+- Algorithmic Trading & Quantitative Research
+- Automation & Engineering Innovation
+
+### 📈 Current Project
+**Trading Quant System — Under Development**
+
+Building a Python-based research platform featuring:
+- NSE stock market analysis
+- SMA 6/30 and Directional Change (DC 5%) strategies
+- Historical backtesting
+- Simulated paper trading
+- Research documentation and performance evaluation
+
+🔒 The project repository is currently private and will be considered for public release after further validation.
+
+### 🎯 My Goal
+To combine engineering principles, programming, and data-driven research to develop reliable, well-tested systems.
