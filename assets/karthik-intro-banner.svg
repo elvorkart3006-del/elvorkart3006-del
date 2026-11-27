@@ -1,29 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
-<title id="title">Karthik S — Engineering to Analytics</title>
-<desc id="desc">Dark blue professional introduction banner with an engineering-to-analytics pathway.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+<title id="title">From Drones to Decisions — Karthik S</title>
+<desc id="desc">A visual career timeline from college UAV projects in 2022 through manufacturing analysis, F-16 wing production and Python research.</desc>
 <defs>
-<linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#091528"/><stop offset=".55" stop-color="#10243c"/><stop offset="1" stop-color="#0c3545"/></linearGradient>
-<linearGradient id="a" x1="0" x2="1"><stop stop-color="#49d4cb"/><stop offset="1" stop-color="#83b9ff"/></linearGradient>
-<pattern id="g" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" stroke="#7eaccd" stroke-opacity=".12" fill="none"/></pattern>
+ <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071528"/><stop offset=".54" stop-color="#142E4C"/><stop offset="1" stop-color="#103D4C"/></linearGradient>
+ <linearGradient id="route" x1="0" y1="0" x2="1"><stop stop-color="#41D6C8"/><stop offset="1" stop-color="#87ADFF"/></linearGradient>
+ <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#BDE3F2" stroke-opacity=".075"/></pattern>
 </defs>
-<rect width="1200" height="340" rx="21" fill="url(#bg)"/>
-<rect width="1200" height="340" rx="21" fill="url(#g)"/>
-<path d="M-20 315L110 285L178 294L264 255L344 266L426 223L492 231L568 173L644 187L729 139L801 155L879 111L956 125L1039 73L1130 91L1220 34" stroke="#43d6cd" stroke-width="3" stroke-opacity=".16" fill="none"/>
-<rect x="52" y="42" width="270" height="31" rx="15" fill="#124958" stroke="#397b8a"/>
-<text x="69" y="62" fill="#b9f8ef" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="1.5">ENGINEERING  ×  ANALYTICS</text>
-<text x="47" y="152" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="74" font-weight="800" letter-spacing="-2">KARTHIK S</text>
-<rect x="51" y="166" width="106" height="5" rx="2" fill="url(#a)"/>
-<text x="50" y="209" fill="#e1eef6" font-family="Arial,Helvetica,sans-serif" font-size="24">Turning operational complexity into</text>
-<text x="50" y="240" fill="#e1eef6" font-family="Arial,Helvetica,sans-serif" font-size="24">measurable, data-led decisions.</text>
-<text x="52" y="294" fill="#aac1d0" font-family="Arial,Helvetica,sans-serif" font-size="16">Aerospace operations  ·  Python research  ·  Strategy &amp; analytics</text>
-<rect x="784" y="45" width="363" height="248" rx="18" fill="#061628" fill-opacity=".75" stroke="#2e6073"/>
-<text x="815" y="81" fill="#91bac8" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="2">MY JOURNEY</text>
-<circle cx="819" cy="119" r="9" fill="#42cebd"/><circle cx="819" cy="188" r="9" fill="#6abfe0"/><circle cx="819" cy="257" r="9" fill="#91a6fb"/>
-<path d="M819 129V178M819 198V247" stroke="#83b9d9" stroke-width="2" stroke-dasharray="4 5"/>
-<text x="842" y="114" fill="#f4fbff" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700">Build &amp; improve</text>
-<text x="842" y="136" fill="#acc8d7" font-family="Arial,Helvetica,sans-serif" font-size="13">F-16 wing manufacturing</text>
-<text x="842" y="183" fill="#f4fbff" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700">Measure &amp; model</text>
-<text x="842" y="205" fill="#acc8d7" font-family="Arial,Helvetica,sans-serif" font-size="13">Python · STAR-D research</text>
-<text x="842" y="252" fill="#f4fbff" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700">Advise &amp; decide</text>
-<text x="842" y="274" fill="#acc8d7" font-family="Arial,Helvetica,sans-serif" font-size="13">Analytics · Quant · Consulting</text>
+<rect width="1200" height="430" rx="20" fill="url(#background)"/>
+<rect width="1200" height="430" rx="20" fill="url(#grid)"/>
+<path d="M0 326C205 269 352 358 550 288C727 221 927 302 1200 149" fill="none" stroke="#40F0D8" stroke-opacity=".1" stroke-width="100"/>
+<text x="52" y="54" fill="#78C5C7" font-size="14" font-weight="700" letter-spacing="4" font-family="Arial, Helvetica, sans-serif">KARTHIK S   /   PORTFOLIO</text>
+<text x="48" y="128" fill="#FFFFFF" font-size="63" font-weight="800" letter-spacing="-2" font-family="Arial, Helvetica, sans-serif">FROM DRONES</text>
+<text x="48" y="192" fill="#FFFFFF" font-size="63" font-weight="800" letter-spacing="-2" font-family="Arial, Helvetica, sans-serif">TO DECISIONS.</text>
+<rect x="54" y="215" rx="2" width="102" height="5" fill="url(#route)"/>
+<text x="52" y="249" fill="#CDE0EF" font-size="20" font-family="Arial, Helvetica, sans-serif">UAV innovation  →  manufacturing analysis  →  precision aerospace  →  quantitative research</text>
+<path d="M92 336H1112" fill="none" stroke="#4EBAC1" stroke-opacity=".7" stroke-width="3"/>
+<path d="M92 336H1112" fill="none" stroke="url(#route)" stroke-width="3" stroke-dasharray="8 10"/>
+<g fill="#071D30" stroke="#79E0DD" stroke-width="3">
+ <circle cx="104" cy="336" r="11"/><circle cx="430" cy="336" r="11"/><circle cx="758" cy="336" r="11"/><circle cx="1086" cy="336" r="11"/>
+</g>
+<g fill="#E5F2F9" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">
+ <text x="56" y="302">2022–24</text><text x="379" y="302">2023</text><text x="707" y="302">2025–26</text><text x="1043" y="302">2026</text>
+</g>
+<g fill="#9BC6D8" font-family="Arial, Helvetica, sans-serif" font-size="15">
+ <text x="56" y="381">DRONES &amp; RESEARCH</text><text x="379" y="381">TITAN / TEAL</text><text x="707" y="381">F-16 WING PROGRAMME</text><text x="1043" y="381">STAR-D</text>
+</g>
+<g fill="none" stroke="#65D6CE" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity=".9">
+<path d="M938 74h22l14 8 14-8h22m-48 8v-13m-19 16-10 9m49-9 10 9m-53-21h11m30 0h11"/><circle cx="935" cy="96" r="5"/><circle cx="995" cy="96" r="5"/>
+<path d="M1045 105l22-20 15 11 32-42"/><path d="M1103 54h11v11"/>
+</g>
 </svg>
