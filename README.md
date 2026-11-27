@@ -1,120 +1,108 @@
 <p align="center">
-  <img src="assets/karthik-intro-banner.svg" alt="From Drones to Decisions — Karthik S" width="100%" />
+  <img src="assets/karthik-intro-banner.svg" width="100%" alt="From Drones to Decisions — Karthik S, a story from UAV projects to manufacturing and analytics" />
 </p>
 
 <h1 align="center">Hi, I'm Karthik S 👋</h1>
-<p align="center"><strong>Aeronautical Engineer · Problem Solver · Building a Career in Analytics & Strategy</strong></p>
+<p align="center"><b>Aeronautical Engineer | Aerospace Operations | Aspiring Business & Quantitative Analyst</b></p>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/karthiks2003/"><img src="https://img.shields.io/badge/LinkedIn-Professional%20Journey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/elvorkart3006-del/trading-quant-system"><img src="https://img.shields.io/badge/GitHub-STAR--D%20Research-123F60?style=for-the-badge&logo=github&logoColor=white" alt="STAR-D project" /></a>
+  <a href="https://www.linkedin.com/in/karthiks2003/"><img src="https://img.shields.io/badge/LinkedIn-Follow%20my%20journey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/elvorkart3006-del/trading-quant-system"><img src="https://img.shields.io/badge/GitHub-Explore%20STAR--D-263C59?style=for-the-badge&logo=github&logoColor=white" alt="STAR-D on GitHub" /></a>
 </p>
 
-> **My story is not a straight line from engineering to finance.** It begins with college-built drones and public demonstrations, continues through real manufacturing problems, and has grown into an interest in how data, economics and structured analysis can improve business decisions.
+> **Curiosity took me from college drone workshops to technology summits, precision manufacturing and the F-16 wing programme. Today I'm applying those experiences to data, quantitative research and business decision-making.**
 
-## 01 · It started with drones, ideas and a college workshop 🛩️
+## 01 / The beginning: drones, innovation & people (2022–2024)
 
-As an Aeronautical Engineering student at **Mangalore Institute of Technology & Engineering (MITE)**, I wanted to work on projects that solved problems outside the classroom.
+At **Mangalore Institute of Technology & Engineering (MITE)**, my education extended far beyond lectures. I helped build and maintain UAVs, ran demonstrations, joined workshops and learned directly from founders, engineers and researchers.
 
-| Project / experience | My involvement |
+| Where curiosity took me | My involvement |
 |---|---|
-| **Equinox · 2022–23** | Technical engineering work on a quadcopter designed to identify crop disease using a multispectral camera. The project was incubated under Karnataka's **New Age Innovation Network (NAIN)**. |
-| **Bengaluru Tech Summit · 2022** | Represented my college and **showcased Equinox** at the summit. I also attended the 2023 edition. |
-| **Medical Emergency Drones (Med-E-Drones) · 2022–24** | Technical lead on a NAIN-supported fixed-wing hybrid VTOL UAV concept for emergency medical response. Contributed to design, assembly, maintenance, market research and technical documentation. |
-| **3D Printing Workshop · Aug 2023** | Helped conduct a practical demonstration of our college's in-house 3D printing facility for junior students. |
-| **Drone workshops · 2023–24** | Built hands-on exposure through drone assembly/piloting workshops, including training at MITE and Manipal Institute of Technology. |
+| **Equinox — agricultural UAV** | Worked on a government-supported, NAIN-incubated quadcopter concept using multispectral imaging to identify crop disease. **Showcased Equinox at Bengaluru Tech Summit 2022**, representing MITE. |
+| **Medical Emergency Drones (Med-E-Drones)** | Technical lead on a NAIN-supported **hybrid VTOL medical-response UAV**; supported technical research, assembly, maintenance and documentation. |
+| **3D printing & drone workshops** | Helped conduct a hands-on **3D printing demonstration for junior students (August 2023)**. Expanded my practical exposure through drone-building, assembly, piloting and autonomous-mission training at MITE and Manipal. |
+| **Ideas & collaborative projects** | Pitched a **Drone Security Systems** concept at IDEATHON 3.0; participated in **SAE India Aerothon 2024** as Team Ikarus lead. |
 
-I also developed and pitched the **Drone Security Systems** idea at IDEATHON 3.0, which was recommended onward by the college innovation centre.
+### My Bengaluru Tech Summit journey
 
-**What this stage taught me:** how to move from an idea to a prototype, research a real-world use case, communicate a technical concept and work across disciplines.
+| Year | Experiences and takeaways |
+|---|---|
+| **2022 — Showcasing** | Represented MITE with the **Equinox** drone project. The first major opportunity to explain a technical idea outside college. |
+| **2023 — Exploring startups** | Participated with MITE's innovation community, including posts about the **Dhyuloka Solutions** team and **Rosette Smart Life**. Explored startup booths and learned how teams turn ideas into demonstrations and business propositions. |
+| **2024 — Learning from industry** | Visited exhibitions featuring the **DRDO TAPAS UAV**, **ISRO's launch-vehicle programmes** and emerging aerospace companies. Interacted with teams or representatives associated with **Okulo Aerospace, BotLab Dynamics, COMRADO Aerospace** and the **ARTPARK** ecosystem. Also explored sustainability-oriented technology and e-waste art. |
 
-## 02 · Titan Engineering & Automation — learning to question the data ⚙️
+Beyond the summit, I shared takeaways from **Mangaluru TechnoVanza 3.0**, an industry-focused **36th aerospace engineers' convention**, and interactions at technology exhibitions, including **Lekha Wireless**. These were **learning, networking and exhibition experiences**, not employment or joint projects.
+
+<sub>The events and interactions above are documented in my LinkedIn posts; individual conversations should not be interpreted as endorsements or formal partnerships. <a href="https://www.linkedin.com/in/karthiks2003/">See my LinkedIn journey.</a></sub>
+
+## 02 / Titan Engineering & Automation: where I started questioning numbers
 
 **Project Trainee · Titan Engineering & Automation Limited (TEAL), Hosur · Oct–Nov 2023**
 
-My internship introduced me to the business side of engineering: machine utilisation, production bottlenecks, time studies, operator feedback, vendor evaluation and the cost of wasted time.
+At TEAL, I moved from prototypes to **actual manufacturing-performance problems**. A three-day time study comparing shop-floor observations with digital records exposed a serious measurement mismatch:
 
-Two projects shaped my analytical thinking:
+| **67.15%** | **5.84%** |
+|:---:|:---:|
+| Actual observed operating time | Machine monitoring system's reported operating time |
+| **Same milling machine**, according to my internship study | **A data-quality problem, not a productivity collapse** |
 
-- **CNC milling time study:** Studied four critical machines. By comparing shop-floor observations with electronic maintenance data, we found that the digital records were **substantially understating real operating time**. We documented likely sensor, signal-interpretation and software causes and escalated the findings.
-- **Vertical Turning Lathe (VTL) setup improvement:** Mapped the setup process, collected operator feedback, identified major delays, researched alternatives and presented proposals to management. One impact-wrench proposal targeted an **estimated 25% reduction in a setup activity**; this was a proposal, not a verified realised saving.
+We investigated potential signal and data-interpretation issues and raised them for review. A separate **vertical turning lathe (VTL) setup** project involved process mapping, operator interviews, market research, vendor comparisons and improvement proposals presented to management. One proposed change aimed for an **estimated 25% reduction in a setup activity**; it was **not a verified implemented saving**.
 
-The most valuable lesson was simple: **a dashboard is only as trustworthy as the data behind it.** Measurement, process understanding and evidence must come before recommendations.
+**My takeaway:** before trusting a KPI, check how it was measured. That lesson now guides both my technical and financial research.
 
-## 03 · From UAV prototypes to the F-16 wing programme ✈️
+## 03 / Tata Lockheed Martin: putting analysis into execution
 
-**Tata Lockheed Martin Aerostructures Limited (TLMAL), Hyderabad**
+<p align="center">
+  <a href="https://www.tata.com/"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Tata_Group.svg" alt="Tata Group logo" height="60" /></a>
+  &nbsp;&nbsp;&nbsp; × &nbsp;&nbsp;&nbsp;
+  <a href="https://www.lockheedmartin.com/"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Lockheed_Martin_logo_%282%29.svg" alt="Lockheed Martin logo" height="45" /></a>
+</p>
+<p align="center"><strong>Tata Lockheed Martin Aerostructures Limited (TLMAL) · F-16 Wing Programme · Hyderabad</strong></p>
 
-<table>
-<tr>
-<td align="center" bgcolor="#ffffff" width="38%">
-  <a href="https://www.tata.com/"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Tata_Group.svg" alt="Tata Group logo" height="72" /></a>
-  <br/><strong>TATA</strong>
-</td>
-<td align="center" width="6%"><strong>×</strong></td>
-<td align="center" bgcolor="#ffffff" width="56%">
-  <a href="https://www.lockheedmartin.com/"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Lockheed_Martin_logo_%282%29.svg" alt="Lockheed Martin official wordmark" width="250" /></a>
-  <br/><strong>LOCKHEED MARTIN</strong>
-</td>
-</tr>
-</table>
+**Tooling Intern (Mar–Jun 2025).** Learned the end-to-end flow from tool drawings and dimensional verification to BOM checks, traceability, discrepancy reports, tool buy-off and handover to production. My tooling internship report documents hands-on gauges, component jigs, drill plates, coordination with Tooling Quality and Manufacturing Engineering, and structured Excel reporting.
 
-**Tooling Intern · Mar–Jun 2025.** On the F-16 wing programme, I learned how precision tooling reaches a production line: interpreting drawings, validating fixtures with gauges, tracking revisions and non-conformances, checking Bills of Materials, preparing reports, coordinating tool buy-offs and handing over approved tools to production. This experience built my respect for **traceability, documentation quality and cross-functional execution**.
+**Junior Executive — Production (Dec 2025–Nov 2026).** Supported daily operational readiness reviews and production plans; worked across Quality, Tooling, Planning, Supply Chain and Manufacturing Engineering to resolve constraints and improve aircraft wing assembly processes.
 
-**Junior Executive — Production · Dec 2025–Nov 2026.** I then worked in wing assembly operations, supporting daily readiness reviews, plan-versus-actual tracking, constraint resolution and collaboration across Production, Quality, Tooling, Manufacturing Engineering and Supply Chain.
+| **45%** | **15%** | **~42%** | **30+** |
+|:---:|:---:|:---:|:---:|
+| Less time for a critical skin-installation activity | Reduction in recurring production discrepancies | Reduction in average tool handover delay | Operators & technicians coordinated |
 
-### Selected impact from my professional records
+<sub>These are initiative-level results reported in my CV, not company-wide results or independently audited figures. Company names and marks identify my experience, not endorsement.</sub>
 
-| Reported result | Initiative |
-|:---:|---|
-| **45% less time** | Team-developed template to streamline a critical aircraft skin-installation activity |
-| **15% fewer** | Recurring production discrepancies addressed through root-cause analysis and corrective action |
-| **~42% lower delay** | Tool handover delays addressed through monitoring and cross-functional follow-up during my tooling experience |
-| **30+ team members** | Operators and technicians coordinated to meet production requirements |
+## 04 / Research, prototypes & leadership
 
-<sub>Figures are initiative-level results reported in my CV, not company-wide KPIs or independent third-party audits. The employer names/logos identify my experience and do not imply endorsement.</sub>
+**Hybrid VTOL UAV — Final Year Project (2024–25).** Led a four-member team through modelling, fabrication and flight-test work. In **MATLAB/Simulink**, our model held altitude deviation within approximately **1 m** under simulated disturbances. Presented our research at **ERCAM 2024**, followed by publication in **IJSDR (January 2025)**.
 
-## 04 · Research, leadership and aerospace engineering
+**Team Ikarus — SAE India Aerothon 2024.** Led multidisciplinary UAV design for disaster-management applications; used planning, responsibility matrices and coordination to move from concept to evaluation.
 
-**Hybrid VTOL UAV final-year research · 2024–25** — Led a four-member team through design, modelling, prototype development and flight-test activities. In MATLAB/Simulink analysis, the altitude-control model held deviation within approximately **1 metre** under simulated disturbances. The work was presented at **ERCAM 2024** and co-authored for publication in **IJSDR (January 2025)**.
+**Education:** B.E. Aeronautical Engineering, MITE / Visvesvaraya Technological University (2025) · **CGPA 8.94/10**.
 
-**Team Ikarus · SAE India Aerothon 2024** — Led UAV concept and disaster-response design work, supported by task planning, RACI matrices, budgeting and interdisciplinary coordination.
+## 05 / What I'm building now: STAR-D 📊
 
-**Education:** B.E. Aeronautical Engineering, MITE / Visvesvaraya Technological University (2025), **CGPA 8.94/10**.
-
-## 05 · What I'm building now: STAR-D 📊
-
-[**STAR-D — Systematic Trading Research & Decision Analytics**](https://github.com/elvorkart3006-del/trading-quant-system) is my independent, AI-assisted Python research project. It brings the same lessons from engineering to financial data: define the rules, verify the inputs, test assumptions, account for costs and explain the limitations.
+[**STAR-D — Systematic Trading Research & Decision Analytics**](https://github.com/elvorkart3006-del/trading-quant-system) is my independent, AI-assisted Python research platform for systematic trading analysis and evidence-based decision-making.
 
 | **7** | **1,241** | **2** |
 |:---:|:---:|:---:|
-| NSE equities researched | Historical daily sessions per stock | Core approaches: SMA 6/30 and DC 5% |
+| Indian equities studied | Daily historical sessions per stock | Strategies evaluated: SMA 6/30 & DC 5% |
 
-**Built so far:** Python research scripts, historical backtests, an interactive Streamlit dashboard, transaction-cost stress tests, offline synthetic-data checks, and documentation of results and failures.
+I have built backtesting scripts, a **Streamlit analytics dashboard**, transaction-cost and sensitivity studies, offline checks and documented research comparisons.
 
-One historical DC 5% holdout study averaged **+3.28% net** across seven separate stock simulations, but fell to **−2.17%** under severe simulated costs. These are **not live profits**; forward profitability is unproven and real-money execution is disabled.
+**An important limitation:** in one historical study the DC 5% approach averaged **+3.28% net** across seven stock simulations, falling to **−2.17%** under severe assumed trading costs. These are **historical simulations, not actual profits**. Live trading remains disabled; forward profitability is unproven.
 
-[**Explore the STAR-D project, research results and development roadmap →**](https://github.com/elvorkart3006-del/trading-quant-system)
+[**Explore the STAR-D repository, verified results, and roadmap →**](https://github.com/elvorkart3006-del/trading-quant-system)
 
-## 06 · Skills I use and continue to develop
+## 06 / My toolkit & career direction
 
-| Analysis & business operations | Programming & data | Engineering & research |
+| Business & operations | Data & research | Engineering & delivery |
 |---|---|---|
-| Root-cause analysis, process mapping, time studies, plan-versus-actual analysis, cost comparisons, stakeholder coordination | **Excel**, **Power BI**, **Python**, pandas, NumPy, Matplotlib, Streamlit, SQLite, charting and backtesting | UAV systems, MATLAB/Simulink, CATIA V5, Siemens NX, manufacturing documentation, research presentation |
+| Problem structuring, root-cause analysis, process improvement, stakeholder collaboration, performance reporting, vendor research | **Excel**, **Power BI**, **Python**, pandas, NumPy, Matplotlib, Streamlit, SQLite, visualisation and backtesting | MATLAB/Simulink, UAV development, CATIA V5, Siemens NX, manufacturing coordination and technical documentation |
 
-**Additional learning:** Project Management Foundations · Six Sigma Green Belt *coursework* · Python Essentials · Lean/TPM · aerospace quality practices.
+**Learning:** Project Management Foundations · Six Sigma Green Belt coursework · Python Essentials · Power BI · Lean and aerospace quality practices.
 
-## 07 · The work I want to grow into 🎯
-
-I'm exploring **entry-level analytical and advisory roles** where I can apply real operational experience alongside growing data and finance skills:
-
-- **Business Analyst / Data Analyst** — investigate performance, validate data and turn findings into useful decisions.
-- **Strategy & Consulting Analyst** — understand industry and company problems, assess trade-offs and communicate practical recommendations.
-- **Quantitative Finance / Research Analyst** — continue building the mathematics, statistics and programming discipline needed for evidence-based market research.
-
-My strongest starting point is **structured problem-solving grounded in real projects**. My next chapter is about developing that ability into rigorous, commercially relevant analytics.
+I am pursuing opportunities in **Business Analysis, Data Analytics, Strategy/Management Consulting and Quantitative Finance Research**. My operational experience gives me practical questions to ask; my current research is developing the tools to answer them more rigorously.
 
 ---
 
-<p align="center"><strong>Curiosity → Measurement → Analysis → Action → Improvement.</strong></p>
-<p align="center"><a href="https://www.linkedin.com/in/karthiks2003/">LinkedIn</a> · <a href="https://github.com/elvorkart3006-del/trading-quant-system">STAR-D Research</a></p>
-<sub>Project descriptions are based on my CVs and internship reports; proprietary employer documents, internal photographs and personal contact details are intentionally not published. The top illustration is an original visual timeline. Company logos belong to their respective owners.</sub>
+<p align="center"><strong>Build with curiosity. Verify with evidence. Improve what matters.</strong></p>
+<p align="center"><a href="https://www.linkedin.com/in/karthiks2003/">My LinkedIn</a> · <a href="https://github.com/elvorkart3006-del/trading-quant-system">STAR-D</a></p>
+<sub>This public page is an independent portfolio drawn from my CV, internship reports and LinkedIn posts. Private work documents, internal company images, phone and email information are intentionally excluded.</sub>
